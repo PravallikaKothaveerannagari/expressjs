@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'pravunodejs'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BFBD7A2F6DC546AB8A7ACA6ECF6421D5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1DFA315D876B4346836CA97723DB27DC }}
           package: .
